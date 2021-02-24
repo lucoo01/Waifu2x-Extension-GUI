@@ -2,7 +2,7 @@
 <img src="/SRC/Waifu2x-Extension-QT/icon/icon_main.png" height="150">
 </p>
 
-<h2 align="center"> Waifu2x-Extension-GUI </h2>
+<h2 align="center"> Waifu2x-Extension-GUI 图片放大软件, 图片无损放大</h2>
 
 <h3 align="center"> Photo/Video/GIF enlargement and Video frame interpolation using machine learning </h3>
 
